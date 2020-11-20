@@ -1,2 +1,2 @@
-# CERTAN-MSP-2020
+# CERTAN-OWGKEY-MSP-2020
 Magic Square Puzzle
