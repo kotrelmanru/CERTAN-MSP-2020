@@ -1,2 +1,2 @@
-# Penyelesaian Magic Square Puzzle dengan Constraint Satisfaction Problem (CSP)
+# Penyelesaian Magic Square Puzzle dengan Metode Heuristik
 Magic Square Puzzle
